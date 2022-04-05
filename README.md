@@ -15,3 +15,6 @@ For this summary, there will be a few sections:
 8. [Golang Part 6 - Printing](./errors.md)
 9. [Golang Part 7 - Printing](./methods.md)
 10. [Golang Part 8 - Printing](./interface.md)
+
+## Sections - Special
+A bit of special section on Golang most powerful feature, [Go Routines](./goroutines.md)
